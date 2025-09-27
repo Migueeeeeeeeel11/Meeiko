@@ -3,8 +3,8 @@ pandas
 plotly.express
 seaborn
 matplotlib.pyplot
-tempfile
-os
+tempfile, os
 re
 numpy
 PIL
+Image
