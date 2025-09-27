@@ -1,10 +1,7 @@
 streamlit
 pandas
-plotly.express
+plotly
 seaborn
-matplotlib.pyplot
-tempfile, os
-re
+matplotlib
+Pillow
 numpy
-PIL
-Image
