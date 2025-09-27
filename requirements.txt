@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly.express
+seaborn
+matplotlib.pyplot
+tempfile
+os
+re
+numpy
+Image
